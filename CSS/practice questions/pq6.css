@@ -1,0 +1,37 @@
+#cir{
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  background-color: yellow;
+}
+
+#eye{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: black;
+  position: relative;
+  top:50px;
+  left:70px;
+  display: inline-block;
+
+}
+#ey{
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  background-color: black;
+  position: relative;
+  top:50px;
+  left:120px;
+  display: inline-block;
+}
+#mo{
+   height: 50px;
+  width: 100px;
+  background-color:red; 
+  position: relative;
+  border-radius:0 0 50px 50px ;
+  top:100px;
+  left:75px;
+}
