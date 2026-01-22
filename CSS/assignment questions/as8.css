@@ -1,0 +1,21 @@
+#main{
+  height: 50px;
+  width: 900px;
+  background-color: #F2C447;
+  border: 2px solid #F76218;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-content: center;
+
+}
+
+.in{
+  height: 50px;
+  width: 80px;
+  font-size: 24px;
+  margin-left: 5px;
+  border-radius: 10px;
+  line-height: 50px;
+}
